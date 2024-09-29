@@ -10,6 +10,8 @@ A Python-based auto-clicker bot that hovers over reddish (tomato) elements in th
 - **Keyboard Controls**: Pause or resume the bot by pressing the `Space` key.
 - **Customizable Logic**: Define color ranges to exclude specific elements (e.g., bomb fire portion).
 
+![image](https://github.com/user-attachments/assets/97aee8f4-ca38-4ba4-9fdd-f08c9ac26875)
+
 ### Requirements:
 - Python 3.10
 - `pynput`
