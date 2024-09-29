@@ -11,12 +11,16 @@ A Python-based auto-clicker bot that hovers over reddish (tomato) elements in th
 - **Customizable Logic**: Define color ranges to exclude specific elements (e.g., bomb fire portion).
 
 ### Requirements:
-- Python 3.x
+- Python 3.10
 - `pynput`
 - `pygetwindow`
 - `pyautogui`
 - `keyboard`
-
+  
+Windows:
+```shell
+run.bat
+```
 ### Usage:
 1. Install the required dependencies:
    ```bash
