@@ -21,6 +21,12 @@ Windows:
 ```shell
 run.bat
 ```
+
+Windows:
+```shell
+Tomatar.exe
+```
+
 ### Usage:
 1. Install the required dependencies:
    ```bash
